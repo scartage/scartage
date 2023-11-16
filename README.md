@@ -1,6 +1,6 @@
  # HEY! 👋🏼
 
-**Interested in Cybersecurity, Bitcoin, Open Source projects**
+**Interested in Cybersecurity, Bitcoin && Open Source projects**
 
 **Currently learning C/C++, Python, Web Development at [42 Barcelona](https://www.42barcelona.com/es/) and [Fundacion Esplai](https://fundacionesplai.org/que-hacemos/proyectos/enfocat-2/)**
 
